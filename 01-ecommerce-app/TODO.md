@@ -220,25 +220,7 @@ Each product card must display:
 
 ---
 
-## Task 9 – Format Price
-
-Display the price with two decimal places.
-
-Example
-
-```
-Rs. 149.00
-```
-
-Hint:
-
-```
-toFixed(2)
-```
-
----
-
-## Task 10 – Low Stock Badge
+## Task 9 – Low Stock Badge
 
 If
 
@@ -256,7 +238,7 @@ Only 12 left
 
 ---
 
-## Task 11 – Empty Product List
+## Task 10 – Empty Product List
 
 If there are no products available,
 
@@ -274,7 +256,7 @@ Use conditional rendering.
 
 ---
 
-## Task 12 – Sold Out Products
+## Task 11 – Sold Out Products
 
 If
 
