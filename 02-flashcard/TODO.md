@@ -52,7 +52,7 @@ When a user clicks a card:
 
 ---
 
-##CSS Classes
+### CSS Classes
 
 .container      /* Holds all flashcards */
 
